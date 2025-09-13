@@ -1,0 +1,70 @@
+html{
+    background-color: #d19cbd;
+}
+
+h1 {
+    font-family:fantasy;
+    font-size: 72px;
+    text-align: center;
+    color: beige;
+    margin: 20px;
+    letter-spacing: 1px;
+}
+
+ul {
+    font-family: Helvetica, sans-serif;
+    font-size: 26px;
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.Datos{
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    display: block;
+    width: fit-content;
+    border-radius: 15px;
+    background-color: beige;
+    min-width: 80%;
+    min-height: 150px;
+    color: rgb(138, 76, 117);
+}
+
+.Hobbies{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-family:fantasy;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    max-width: 80%;
+    color: rgb(138, 76, 117);
+}
+
+.Comentario {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;
+    font-family: Helvetica, sans-serif;
+    max-width: 80%;
+    color: rgb(66, 46, 32);
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
